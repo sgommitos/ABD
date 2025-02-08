@@ -2,7 +2,8 @@
 
 ## IMPORTANT NOTES
 
-The first alpha release will come before the entire codebase, due to needed refactoring operations.
+- It's the first time that i use github; be kind please c:
+- The first alpha release will come before the entire codebase, due to needed refactoring operations.
 
 ## Introduction
 
