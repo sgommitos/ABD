@@ -1,6 +1,7 @@
 ## Temp & log files
 *.tmp
 *.log
+*.spec
 
 # Directories
 build
@@ -8,3 +9,5 @@ dist
 venv
 _OLD
 _MISC
+build
+dist
