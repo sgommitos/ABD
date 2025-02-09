@@ -3,11 +3,19 @@
 *.log
 *.spec
 
+#Debug build(s)
+abd-debug-build
+
 # Directories
-build
-dist
+
+## Virtual enviroment
 venv
+
+## Debug-purpose
 _OLD
 _MISC
+io_tests
+
+## Build directories
 build
 dist
