@@ -38,4 +38,4 @@ Just a few points to explain what's in my head about:
 - This project will be developed during my free time; i'm a little bit busy right now, but i'll try my best.
 - **Maybe**, there would be another "piece" of this SW, in order to convert directly in GUI the ASCII diagrams into better-looking diagrams (exportable as .png and, maybe, .pdf and .svg)
 
-*Of course, every suggestion/improvement it's appreciated!*
+*Of course, every suggestion/improvement would be appreciated!*
